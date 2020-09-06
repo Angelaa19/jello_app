@@ -16,24 +16,25 @@
 											<li><a href="generic.html" class="button">Learn More</a></li>
 										</ul>
 									</div>
-									<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+									<span class="image"><img src="https://i.pinimg.com/564x/87/f3/62/87f3625d19b744c9fa92af84a7546161.jpg" alt="girl with umbrella" /></span>
 								</div>
 							</section>
 
 						<!-- First Section -->
 							<section id="first" class="main special">
 								<header class="major">
-									<h2>Magna veroeros</h2>
+									<h2>New Look</h2>
+									<p></p>
 								</header>
 								<ul class="features">
 									<li>
 										<span class="icon solid major style1 fa-code"></span>
-										<h3>Ipsum consequat</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<h3>Website</h3>
+										<p>Choose your favorite website to descreatley request for a wellness check.</p>
 									</li>
 									<li>
 										<span class="icon major style3 fa-copy"></span>
-										<h3>Amed sed feugiat</h3>
+										<h3>Photo Album</h3>
 										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 									</li>
 									<li>
@@ -91,8 +92,6 @@
 							<h2 id="demo">Need Help?</h2>
               <p>If you need emergency assistance, dial 911 immediately. Otherwise click the button below to have police dispatched to your area.</p>
                 <button v-on:click="getCurrentPosition()">Click here</button>
-              <h3 id="showLocation">You are here!</h3>
-								</header>
 								<footer class="major">
 									<ul class="actions special">
 										<li><a href="generic.html" class="button primary">Get Started</a></li>
