@@ -2980,6 +2980,7 @@ input, select, textarea {
 		-ms-align-items: center;
 		align-items: center;
 		margin: 0 0 2em 0;
+		padding: 15px 0px 0px 0px;
 	}
 
 		.spotlight .content {
@@ -3118,11 +3119,16 @@ input, select, textarea {
 				margin: 0 0 1.5em 0;
 			}
 
-				#header.alt .logo img {
-					display: block;
-					margin: 0 auto;
-					max-width: 75%;
-				}
+			#header.alt .logo img {
+				display: block;
+				margin: 0 auto;
+				/* max-width: 75%; */
+				width: auto;
+				max-width: 150px;
+  			height: auto;
+  			max-height: 100px;
+			}
+
 
 		@media screen and (max-width: 1280px) {
 
@@ -3130,9 +3136,9 @@ input, select, textarea {
 				padding: 4em 4em 0.1em 4em ;
 			}
 
-				#header.alt {
+			#header.alt {
 					padding: 6em 4em 3em 4em ;
-				}
+			}
 
 		}
 

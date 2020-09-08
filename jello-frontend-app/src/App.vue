@@ -5,7 +5,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<div class="logo"><img src="https://i.pinimg.com/564x/42/9e/89/429e89bf0da5fb2ecdb2c5f5441cb931.jpg" alt="watercolor pizza" style="border-radius: 50%;"></div>
 						<h1>Lavender Jello</h1>
 						<p>A way to keep you and your loved ones, safe.</p>
 					</header>
@@ -13,8 +13,8 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#intro" class="active">Welcome</a></li>
-							<li><a href="#first">Designs</a></li>
+							<li><a href="/" class="active">Welcome</a></li>
+							<li><a href="#first">Features</a></li>
 							<li><a href="#second">Second Section</a></li>
 							<li><a href="#cta">Get Started</a></li>
 						</ul>

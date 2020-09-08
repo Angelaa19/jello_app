@@ -23,24 +23,24 @@
 						<!-- First Section -->
 							<section id="first" class="main special">
 								<header class="major">
-									<h2>New Look</h2>
+									<h2>Traits</h2>
 									<p></p>
 								</header>
 								<ul class="features">
 									<li>
-										<span class="icon solid major style1 fa-code"></span>
+										<span class="icon solid major style1 fa-globe"></span>
 										<h3>Website</h3>
-										<p>Choose your favorite website to descreatley request for a wellness check.</p>
+										<p>Choose one of your favorite websites to discreetly request a wellness check. </p>
 									</li>
 									<li>
-										<span class="icon major style3 fa-copy"></span>
-										<h3>Photo Album</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="icon major style3 fa-address-book"></span>
+										<h3>Friends & Family</h3>
+										<p>List some friends and or family you would like to notify.</p>
 									</li>
 									<li>
-										<span class="icon major style5 fa-gem"></span>
-										<h3>Dolor nullam</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="icon major style5 fa-comment"></span>
+										<h3>Chat</h3>
+										<p>Not sure where to start? Click below to see many free resources to get you started. </p>
 									</li>
 								</ul>
 								<footer class="major">
@@ -53,26 +53,26 @@
 						<!-- Second Section -->
 							<section id="second" class="main special">
 								<header class="major">
-									<h2>Ipsum consequat</h2>
+									<h2>Types of Abuse</h2>
 									<p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
 									posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
 								</header>
 								<ul class="statistics">
 									<li class="style1">
-										<span class="icon solid fa-code-branch"></span>
-										<strong>5,120</strong> Etiam
+										<span class="icon fa-hand-rock" style="center"></span>
+										<strong>Physical</strong>
 									</li>
 									<li class="style2">
-										<span class="icon fa-folder-open"></span>
-										<strong>8,192</strong> Magna
+										<span class="icon fa-"></span>
+										<strong>Domestic Violence</strong> 
 									</li>
 									<li class="style3">
-										<span class="icon solid fa-signal"></span>
-										<strong>2,048</strong> Tempus
+										<span class="icon fa-heart"></span>
+										<strong>Sexual</strong> 
 									</li>
 									<li class="style4">
 										<span class="icon solid fa-laptop"></span>
-										<strong>4,096</strong> Aliquam
+										<strong>4,096</strong> Emotional
 									</li>
 									<li class="style5">
 										<span class="icon fa-gem"></span>
@@ -94,7 +94,7 @@
                 <button v-on:click="getCurrentPosition()">Click here</button>
 								<footer class="major">
 									<ul class="actions special">
-										<li><a href="generic.html" class="button primary">Get Started</a></li>
+										<li><a href="/signup" class="button primary">Get Started</a></li>
 										<li><a href="generic.html" class="button">Learn More</a></li>
 									</ul>
 								</footer>
