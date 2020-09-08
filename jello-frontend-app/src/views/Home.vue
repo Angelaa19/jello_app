@@ -54,8 +54,7 @@
 							<section id="second" class="main special">
 								<header class="major">
 									<h2>Types of Abuse</h2>
-									<p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-									posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
+									<p>Abuse is a situation in which a person is treated in a way that is harmful to them.<br /> It can occur to anyone of any age and gender and from any walk of life.<br /> If you or someone you know is being abused, it's important to seek support and help.</p>
 								</header>
 								<ul class="statistics">
 									<li class="style1">
