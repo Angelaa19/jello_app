@@ -7,7 +7,7 @@
 					<header id="header" class="alt">
 						<div class="logo"><img src="https://i.pinimg.com/564x/42/9e/89/429e89bf0da5fb2ecdb2c5f5441cb931.jpg" alt="watercolor pizza" style="border-radius: 50%;"></div>
 						<h1>Lavender Jello</h1>
-						<p>A way to keep you and your loved ones, safe.</p>
+						<p style="font-style: italic;">We're all in this together. It's okay to be honest. It's okay to ask for help. It's okay to say you're stuck, or that you're haunted or that you can't begin to let go. We can all relate to those things. Screw the stigma that says otherwise. Break the silence and break the cycle, for you are more than just your pain. You are not alone. And people need other people.<br /> -- Jamie Tworkowski --</p>
 					</header>
 
 				<!-- Nav -->
