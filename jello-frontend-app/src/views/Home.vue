@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    
+    <br>
       <!-- Main -->
 					<div id="main">
 
@@ -9,7 +9,7 @@
 								<div class="spotlight">
 									<div class="content">
 										<header class="major">
-											<h2>You are not alone.</h2>
+											<h2 style="text-align:left;">You are not alone</h2>
 										</header>
 										<p>On average, 24 people per minute are victims of rape, physical violence or stalking by an intimate partner in the United States — more than 12 million women and men over the course of a year.[i]</p>
 										<ul class="actions">
@@ -54,7 +54,7 @@
 							<section id="second" class="main special">
 								<header class="major">
 									<h2>Types of Abuse</h2>
-									<p>Abuse is a situation in which a person is treated in a way that is harmful to them.<br /> It can occur to anyone of any age and gender and from any walk of life.<br /> If you or someone you know is being abused, it's important to seek support and help.</p>
+									<p>Abuse is a situation in which a person is treated in a way that is harmful to them.<br /> It can occur to anyone of any age and gender and from any walk of life.<br /> If you or someone you know is being abused, it's important to seek support and help. <br /> Below is just a few of the many types of abuse.</p>
 								</header>
 								<ul class="statistics">
 									<li class="style1">
@@ -62,16 +62,16 @@
 										<strong>Physical</strong>
 									</li>
 									<li class="style2">
-										<span class="icon fa-"></span>
-										<strong>Domestic Violence</strong> 
+										<span class="icon fa-heart"></span>
+										<strong>Sexual</strong>  
 									</li>
 									<li class="style3">
-										<span class="icon fa-heart"></span>
-										<strong>Sexual</strong> 
+										<span class="fas fa-user-circle" style="font-size:48px"></span>
+										<strong>Domestic Violence</strong>
 									</li>
 									<li class="style4">
-										<span class="icon solid fa-laptop"></span>
-										<strong>4,096</strong> Emotional
+										<span class="icon solid fa-theater-masks"></span>
+										<strong>Verbal / Emotional</strong>
 									</li>
 									<li class="style5">
 										<span class="icon fa-gem"></span>
@@ -89,7 +89,7 @@
 						<!-- Get Started -->
 							<section id="cta" class="main special">
 							<h2 id="demo">Need Help?</h2>
-              <p>If you need emergency assistance, dial 911 immediately. Otherwise click the button below to have police dispatched to your area.</p>
+              <p>If you need emergency assistance, dial 911 immediately. <br />Otherwise click the button below to have police dispatched to your area.</p>
                 <button v-on:click="getCurrentPosition()">Click here</button>
 								<footer class="major">
 									<ul class="actions special">
