@@ -54,7 +54,7 @@
 							<section id="second" class="main special">
 								<header class="major">
 									<h2>Types of Abuse</h2>
-									<p>Abuse is a situation in which a person is treated in a way that is harmful to them.<br /> It can occur to anyone of any age and gender and from any walk of life.<br /> If you or someone you know is being abused, it's important to seek support and help. <br /> Below is just a few of the many types of abuse.</p>
+									<p>Abuse is a situation in which a person is treated in a way that is harmful to them.<br /> It can occur to anyone of any age and gender and from any walk of life.<br /> If you or someone you know is being abused, it's important to seek support and help. <br /> Below are just a few of the many types of abuse.</p>
 								</header>
 								<ul class="statistics">
 									<li class="style1">
@@ -66,16 +66,16 @@
 										<strong>Sexual</strong>  
 									</li>
 									<li class="style3">
-										<span class="fas fa-user-circle" style="font-size:48px"></span>
-										<strong>Domestic Violence</strong>
+										<span class="icon solid fa-theater-masks"></span>
+										<strong>Mental / Emotional</strong>
 									</li>
 									<li class="style4">
 										<span class="icon solid fa-theater-masks"></span>
-										<strong>Verbal / Emotional</strong>
+										<strong>Financial</strong>
 									</li>
 									<li class="style5">
 										<span class="icon fa-gem"></span>
-										<strong>1,024</strong> Nullam
+										<strong>Cultural / Identity</strong>
 									</li>
 								</ul>
 								<p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
